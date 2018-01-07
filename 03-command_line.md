@@ -20,7 +20,7 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > pwd, mkdir, rmdir, touch, rm, mv, ls -a, cp, cd, man
 
 ---
 
@@ -35,7 +35,7 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > lists files in your working directory, includes directories that start with a '.', includes details about files, writes sizes in prefixed form, all the above stuff, sort by time modified, use color for long format with dirs indicated by '*/'
 
 ---
 
@@ -43,7 +43,7 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > -r reverses order, -S sorts by size, -U sorts by creation date, -1 forces one item per line, -m output as csv
 
 ---
 
