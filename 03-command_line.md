@@ -51,7 +51,6 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+> > I read a bunch about this and honestly I'm still a bit confused. It's something like a distributive property for inputs to a function if you want to apply the function manually to each input because the function can't handle distributing itself for whatever reason (perhaps overload). 
  
 
